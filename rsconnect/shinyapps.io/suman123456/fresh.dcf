@@ -1,0 +1,12 @@
+name: fresh
+title: fresh
+username:
+account: suman123456
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 219046
+bundleId: 1000307
+url: https://suman123456.shinyapps.io/fresh/
+when: 1506538165.63783
+asMultiple: FALSE
+asStatic: FALSE
